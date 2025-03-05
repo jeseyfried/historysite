@@ -42,7 +42,7 @@ urlimg: 'https://github.com/jeseyfried/historysite/tree/gh-pages/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "name1.png"
+logo: "logo.png"
 
 # Plugins
 plugins:
